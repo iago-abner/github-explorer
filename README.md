@@ -36,6 +36,8 @@ Anotações:
 17- instalando 'sass-loader -D' e onde tínhamos em rules '/\.css$/' passamos para '/\.scss$/', por fim em 'use' adicionamoso sass-loader .: 'use: ['style-loader','css-loader', 'sass-loader']'.
 mudamos o arquivo 'global.css' -> 'global.scss'
 
+TESTE
+
 
 
 
